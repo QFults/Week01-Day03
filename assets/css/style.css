@@ -1,4 +1,9 @@
 #heading {
   color: red !important;
+  /* font-size: 40px; */
 }
 
+img {
+  width: 100px;
+  height: 100px;
+}
